@@ -38,3 +38,4 @@ console.log(typeof "Jonas");
 //when we want to change the value of a variable, we simply asign new value, without declaring it again;
 javascriptIsFun = "yes"
 console.log(typeof javascriptIsFun);
+//
